@@ -1,0 +1,13 @@
+configName: pic32mz_ef_sk
+folderName: ''
+format_version: v1.0
+frameworkPath: ../../../..
+processor: PIC32MZ2048EFM144
+projectName: ''
+settings:
+  PackageFilter: audio;aws_cloud;bootloader;bootloader_apps_ethernet;bootloader_apps_i2c;bootloader_apps_sdcard;bootloader_apps_uart;bootloader_apps_usb;bsp;classb_sam_e5x_d5x;core;core_apps_pic32mm;core_apps_pic32mx;core_apps_pic32mz_da;core_apps_pic32mz_ef;core_apps_sam_d21_da1;crypto;cryptoauthlib;cryptoauthlib_apps;crypto_apps_encrypt_decrypt;crypto_apps_speed_test;csp;csp_apps_pic32mx;csp_apps_pic32mz_ef;csp_apps_sam_d21_da1;Devices;dev_packs;ethercat;expresslogic_threadx;gfx;gfx_apps;harmony-services;micrium_ucos3;motor_control;MPLAB-Harmony-Reference-Apps;net;net_apps_pic32mx;net_apps_pic32mz;quick_docs;reference_apps;touch;usb;usb_apps_device;usb_apps_dual_role;usb_apps_host;usb_apps_multi_controller;wireless;x2c
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\PIC32MZ-EF_DFP\1.3.58\atdf\PIC32MZ2048EFM144.atdf
